@@ -18,8 +18,8 @@ A simple and responsive landing page created as part of the Frontend Development
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ## Project Structure
 
